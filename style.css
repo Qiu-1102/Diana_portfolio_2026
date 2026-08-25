@@ -1,6 +1,17 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(100, 165, 187);
 }
 body {
     background-image: url('cool-background.jpg');
     background-size: cover;
+
+}
+body {
+  background-color: rgb(149, 236, 255);
+}
+body {
+  background-image: url("10211787616611_.pic.jpg");
+  background-size: cover; 
+  } 
+  
+   
